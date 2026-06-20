@@ -1,0 +1,15 @@
+Metric,Value
+Raw Records,500
+Duplicates Removed,50
+Total Missing Values,120
+Invalid Rows Dropped,75
+Final Clean Records,375
+Avg Age (clean),46.9
+Avg Sales (clean),1214.37
+Total Sales (clean),455390.1
+Report Generated At,2026-06-20 02:46:43
+Missing · Customer ID,0
+Missing · Name,18
+Missing · Age,30
+Missing · City,38
+Missing · Sales,34

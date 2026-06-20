@@ -1,0 +1,376 @@
+Customer ID,Name,Age,City,Sales
+CUST-0091,Sophie Harris,18,Phoenix,1960.57
+CUST-0255,Pooja Harris,31,Chicago,499.94
+CUST-0284,Olivia Taylor,19,Chennai,278.46
+CUST-0446,Kavya Johnson,33,Sydney,1767.68
+CUST-0375,Li Wang,50,Delhi,2397.57
+CUST-0016,Liam Harris,20,Sydney,992.68
+CUST-0317,Yuki Pillai,34,Bangalore,2845.16
+CUST-0032,Arjun Yang,48,London,801.06
+CUST-0160,Mohammed Reddy,71,Chennai,812.41
+CUST-0154,Sara Lee,34,Pune,1328.64
+CUST-0242,Mohammed Singh,73,Chennai,1048.36
+CUST-0251,Aditya Joshi,40,London,802.56
+CUST-0391,Meera Jones,66,Sydney,304.07
+CUST-0290,Vikram Wang,60,Pune,325.19
+CUST-0172,Oliver Thomas,46,Mumbai,246.72
+CUST-0330,Amit White,33,New York,138.68
+CUST-0012,Sanjay Wilson,39,Ahmedabad,3809.02
+CUST-0356,Sneha Davis,28,Unknown,228.36
+CUST-0155,Vikram Lee,43,Osaka,518.03
+CUST-0038,Sara Jackson,74,Manchester,802.41
+CUST-0206,Neha White,63,Hyderabad,46.15
+CUST-0367,Olivia Nguyen,68,Chennai,27.36
+CUST-0241,Aditya Nguyen,72,Chicago,651.69
+CUST-0109,Liam Chen,56,Chicago,774.56
+CUST-0022,Li Kumar,43,Unknown,1457.3
+CUST-0368,Yuki Garcia,31,Tokyo,1376.89
+CUST-0097,Rahul Kim,25,Houston,2736.77
+CUST-0429,Ethan Taylor,32,Hyderabad,509.17
+CUST-0119,Deepa Zhang,21,Pune,162.76
+CUST-0125,Kavya Reddy,38,Mumbai,6684.39
+CUST-0192,Pooja Harris,71,New York,2008.27
+CUST-0412,Sunita Brown,22,Los Angeles,705.84
+CUST-0354,Sunita Martinez,68,New York,924.65
+CUST-0239,Mason Nair,75,Phoenix,214.15
+CUST-0323,Mason Harris,49,Mumbai,186.42
+CUST-0404,Neha Anderson,53,Sydney,414.13
+CUST-0222,Rohan Nair,42,New York,8918.5
+CUST-0002,Pooja Zhang,26,Lucknow,1075.12
+CUST-0214,Kiran Williams,43,New York,916.41
+CUST-0326,Ethan Liu,26,Tokyo,747.9
+CUST-0419,Unknown,32,Chicago,1058.64
+CUST-0103,Unknown,49,Unknown,854.0
+CUST-0364,Maria Pillai,54,Los Angeles,159.7
+CUST-0171,Maria Reddy,44,Jaipur,272.13
+CUST-0344,Sneha Brown,60,Chicago,276.77
+CUST-0145,Amit Jones,61,Chennai,6118.77
+CUST-0133,Li Harris,74,Unknown,1742.28
+CUST-0013,Noah Nguyen,19,Ahmedabad,1657.8
+CUST-0328,Aarav Lee,43,Chicago,411.85
+CUST-0174,Deepa Liu,58,Unknown,300.01
+CUST-0225,Pooja Park,28,Bangalore,499.07
+CUST-0079,Carlos Brown,75,Mumbai,1595.45
+CUST-0277,Aditya Jones,44,Hyderabad,1242.99
+CUST-0302,Kavya Rao,70,Chennai,6954.16
+CUST-0197,Ava Menon,34,New York,1507.06
+CUST-0011,James Mehta,38,Sydney,790.65
+CUST-0384,Aditya Zhang,65,Pune,1331.72
+CUST-0272,Ava Liu,63,Delhi,89.01
+CUST-0076,James Thomas,47,Delhi,223.91
+CUST-0143,James Verma,45,Houston,555.82
+CUST-0341,Sunita Rao,50,Tokyo,566.55
+CUST-0176,Emma Rao,64,New York,182.01
+CUST-0363,Deepa White,45,Ahmedabad,1630.47
+CUST-0265,Wei Shah,71,Delhi,1109.33
+CUST-0101,Neha Zhang,40,Pune,410.01
+CUST-0335,Arjun Johnson,23,Osaka,382.66
+CUST-0296,Arjun Shah,56,Unknown,1247.22
+CUST-0301,Unknown,55,Jaipur,23.88
+CUST-0236,Yuki Brown,55,New York,973.27
+CUST-0232,Aarav Bose,54,Bangalore,930.67
+CUST-0220,Kavya Park,67,Chennai,1679.33
+CUST-0331,Mason White,29,Pune,4864.68
+CUST-0327,Emily Kumar,39,Chennai,1338.82
+CUST-0422,Emily Jones,54,Chennai,696.7
+CUST-0158,Deepa Martinez,18,New York,111.11
+CUST-0349,Rohan Shah,48,Kolkata,471.41
+CUST-0055,Emily Gupta,56,Hyderabad,227.11
+CUST-0403,Emma Pillai,26,Sydney,529.12
+CUST-0380,Li Garcia,18,Los Angeles,391.86
+CUST-0201,Rajesh Chen,29,Phoenix,679.24
+CUST-0180,Yuki Anderson,46,New York,6737.46
+CUST-0057,Oliver Johnson,36,Tokyo,1058.16
+CUST-0441,Arjun Yang,30,Kolkata,1669.03
+CUST-0061,Carlos White,31,Los Angeles,643.02
+CUST-0209,Sara Park,43,Manchester,176.75
+CUST-0108,Aditya Gupta,53,Houston,5670.57
+CUST-0337,Kiran Mehta,31,Manchester,132.15
+CUST-0072,Sunita Johnson,27,Houston,410.7
+CUST-0007,Kavya Yang,70,Chicago,2079.96
+CUST-0413,Rajesh Wang,18,Phoenix,1203.04
+CUST-0114,Vikram Jackson,35,Manchester,131.99
+CUST-0237,Emily Taylor,36,Ahmedabad,1708.88
+CUST-0156,Arjun Reddy,70,Unknown,1069.78
+CUST-0273,Sunita Bose,69,Jaipur,2651.28
+CUST-0008,Carlos Kim,36,Los Angeles,554.67
+CUST-0138,Oliver Bose,35,Delhi,1044.94
+CUST-0009,Rohan Iyer,20,Bangalore,587.65
+CUST-0293,Sanjay Johnson,49,Chicago,65.14
+CUST-0285,Mason Zhang,53,Unknown,126.46
+CUST-0211,Maria Garcia,45,Lucknow,273.83
+CUST-0189,Maria Reddy,24,Manchester,2767.32
+CUST-0431,Sanjay Sharma,32,Sydney,95.61
+CUST-0050,Unknown,73,Kolkata,393.2
+CUST-0135,Mohammed Patel,44,Houston,552.24
+CUST-0366,Vikram Shah,42,Houston,160.67
+CUST-0414,Mohammed Nguyen,38,Delhi,1439.39
+CUST-0240,Sophie Pillai,36,Chicago,406.64
+CUST-0060,Deepa Davis,23,Ahmedabad,161.3
+CUST-0392,Olivia Joshi,65,London,355.87
+CUST-0378,Emily Kumar,59,Sydney,291.37
+CUST-0230,Ethan Nair,51,Tokyo,646.01
+CUST-0298,Kavya Lee,70,Lucknow,458.03
+CUST-0294,Wei Anderson,48,Chicago,834.25
+CUST-0179,Emma Jackson,59,Lucknow,365.9
+CUST-0418,Carlos Iyer,54,New York,86.68
+CUST-0185,Maria Menon,70,Osaka,1832.13
+CUST-0187,Priya Nair,63,Houston,200.29
+CUST-0195,Wei Johnson,20,Mumbai,304.53
+CUST-0005,Aarav Wang,70,New York,6254.58
+CUST-0332,Carlos Brown,37,New York,577.21
+CUST-0246,Isabella Liu,73,Kolkata,439.14
+CUST-0006,Divya Chen,46,Bangalore,205.87
+CUST-0142,Unknown,53,Houston,289.03
+CUST-0136,Sara Gupta,26,Houston,1389.77
+CUST-0123,Chen Bose,69,Phoenix,271.25
+CUST-0023,Emma Wang,53,Sydney,1876.8
+CUST-0069,Rohan Yang,60,Lucknow,250.69
+CUST-0021,Li Mehta,56,Chicago,31.08
+CUST-0383,Unknown,40,Unknown,802.75
+CUST-0015,Priya Chen,45,Sydney,1133.01
+CUST-0279,Emma Taylor,59,London,788.67
+CUST-0226,Sneha Liu,74,Mumbai,2488.89
+CUST-0065,Unknown,35,Delhi,310.7
+CUST-0382,Rajesh Joshi,40,Lucknow,429.39
+CUST-0082,Ananya Bose,24,Hyderabad,2610.46
+CUST-0303,Kiran Chen,24,Hyderabad,1062.22
+CUST-0028,Ethan Kumar,72,Sydney,702.69
+CUST-0162,Divya Davis,33,Pune,11611.76
+CUST-0161,Wei Martinez,40,Chicago,1425.16
+CUST-0014,Rahul Nguyen,19,Kolkata,769.71
+CUST-0365,James Taylor,27,Lucknow,1682.28
+CUST-0207,Deepa Zhang,59,Jaipur,1408.5
+CUST-0320,Liam Rao,45,Jaipur,313.03
+CUST-0052,Liam Liu,50,Sydney,1690.85
+CUST-0307,Sophie Lee,35,Manchester,578.64
+CUST-0333,Olivia Verma,48,Ahmedabad,294.06
+CUST-0107,Rahul White,39,Mumbai,673.58
+CUST-0064,Deepa Chen,45,New York,956.2
+CUST-0345,Mohammed Liu,57,Los Angeles,419.11
+CUST-0428,Sophie Wang,43,Pune,1313.89
+CUST-0440,Priya Wilson,51,Phoenix,174.33
+CUST-0321,Sunita Patel,19,London,373.44
+CUST-0090,Sanjay Taylor,56,Phoenix,164.32
+CUST-0313,Sara Menon,55,Unknown,4203.41
+CUST-0299,Vikram Singh,66,Lucknow,747.61
+CUST-0018,Unknown,60,Pune,519.99
+CUST-0396,Aditya Patel,43,Osaka,1400.28
+CUST-0093,Carlos Bose,39,Phoenix,105.27
+CUST-0019,Mohammed Garcia,27,Tokyo,968.43
+CUST-0199,Aarav Wilson,51,Houston,290.77
+CUST-0146,Liam Jones,52,Hyderabad,1490.33
+CUST-0159,Emily Taylor,73,Hyderabad,1126.95
+CUST-0151,Liam Verma,19,Pune,691.04
+CUST-0168,Ava Davis,63,Los Angeles,382.26
+CUST-0256,Rahul Rao,32,Ahmedabad,120.44
+CUST-0231,Isabella Harris,50,Los Angeles,274.34
+CUST-0423,Emma Shah,56,Hyderabad,91.1
+CUST-0067,Neha Verma,22,Houston,296.8
+CUST-0310,Sunita Verma,34,Delhi,582.51
+CUST-0254,Mohammed Taylor,67,Chicago,324.8
+CUST-0141,Divya Davis,58,Los Angeles,3267.12
+CUST-0102,Amit Yang,48,Delhi,2884.0
+CUST-0434,Chen Rao,62,Unknown,266.72
+CUST-0003,Mason Iyer,37,Chennai,2152.72
+CUST-0409,Mason Johnson,24,New York,1826.14
+CUST-0147,James Taylor,48,Manchester,1084.59
+CUST-0250,Liam Brown,60,Los Angeles,717.6
+CUST-0264,Divya Park,27,Osaka,55.48
+CUST-0031,Oliver Bose,21,Lucknow,3878.6
+CUST-0115,Rajesh Rao,66,Chicago,144.81
+CUST-0248,Ava Patel,40,Tokyo,1185.33
+CUST-0104,Amit Pillai,66,Manchester,2147.3
+CUST-0406,Aarav Joshi,71,New York,171.81
+CUST-0311,Sunita Menon,59,Pune,2262.46
+CUST-0177,Isabella Wang,75,Unknown,167.84
+CUST-0247,Rajesh Wang,27,Manchester,381.34
+CUST-0169,Arjun Martinez,62,Lucknow,612.84
+CUST-0416,Vikram Jones,48,Unknown,518.9
+CUST-0121,Rajesh Brown,62,Jaipur,6852.34
+CUST-0262,Kavya Zhang,38,New York,1698.39
+CUST-0113,Li Gupta,33,Jaipur,6372.71
+CUST-0361,Maria Reddy,55,New York,285.53
+CUST-0436,Ava Verma,21,Chennai,2615.79
+CUST-0283,Kavya Verma,46,Pune,1531.03
+CUST-0137,Sara Bose,43,Phoenix,2011.52
+CUST-0191,Sara Rao,56,Phoenix,972.95
+CUST-0182,Ethan Thomas,58,Mumbai,738.83
+CUST-0253,Noah Rao,66,Pune,878.85
+CUST-0394,Unknown,69,Hyderabad,374.81
+CUST-0233,Rahul Kim,20,Chennai,591.24
+CUST-0170,Liam Zhang,25,Tokyo,5197.91
+CUST-0163,Chen Kim,71,Sydney,2066.01
+CUST-0035,Pooja Jackson,23,Los Angeles,229.21
+CUST-0086,Aarav Chen,72,Chennai,233.94
+CUST-0062,Divya White,43,Pune,1112.09
+CUST-0200,Sneha Verma,63,Manchester,385.05
+CUST-0269,Ava Shah,22,Chennai,567.1
+CUST-0219,Olivia Anderson,56,Phoenix,541.39
+CUST-0074,Sophie Taylor,64,Ahmedabad,1159.03
+CUST-0304,Olivia Bose,24,Chicago,304.02
+CUST-0030,Isabella Kumar,20,Jaipur,4185.31
+CUST-0362,Aditya Patel,68,Chicago,2062.99
+CUST-0393,Rahul Anderson,34,Manchester,72.84
+CUST-0444,Liam Joshi,69,Sydney,79.66
+CUST-0218,Sophie Lee,56,New York,1246.3
+CUST-0400,Sneha Menon,73,Ahmedabad,1000.2
+CUST-0381,Sneha Bose,55,Jaipur,475.12
+CUST-0157,Sophie Joshi,48,Tokyo,179.17
+CUST-0139,Divya Anderson,19,Houston,177.81
+CUST-0213,Meera Shah,60,Los Angeles,140.97
+CUST-0105,Neha Park,28,Unknown,1020.08
+CUST-0351,Sneha Liu,62,Pune,584.78
+CUST-0347,Yuki Jones,51,Houston,744.88
+CUST-0352,James Wilson,24,Hyderabad,280.47
+CUST-0216,Ava Menon,75,Unknown,634.51
+CUST-0386,Neha Gupta,48,Kolkata,265.88
+CUST-0205,Vikram Verma,55,Ahmedabad,307.25
+CUST-0235,Amit Park,48,Kolkata,1982.7
+CUST-0260,Sara Jones,65,Lucknow,1095.82
+CUST-0068,Noah Anderson,36,Jaipur,432.05
+CUST-0217,Li Williams,39,Sydney,163.74
+CUST-0224,Deepa Thomas,75,Chicago,427.08
+CUST-0130,Ananya Jones,24,New York,6581.89
+CUST-0167,Sanjay Menon,42,New York,137.13
+CUST-0395,Priya Jones,64,New York,374.06
+CUST-0041,Rahul Gupta,26,Bangalore,417.89
+CUST-0275,Sunita Joshi,63,Manchester,250.63
+CUST-0358,Sara Patel,69,Phoenix,457.26
+CUST-0080,Aditya Garcia,61,Lucknow,776.49
+CUST-0314,Noah White,55,Sydney,937.87
+CUST-0316,Mohammed Nguyen,18,Kolkata,189.75
+CUST-0288,Neha Patel,24,Phoenix,159.71
+CUST-0410,Sanjay Shah,53,Phoenix,493.07
+CUST-0229,Sanjay Iyer,59,Chicago,95.55
+CUST-0084,Olivia Johnson,57,Tokyo,1077.94
+CUST-0318,Divya Garcia,29,Chicago,1522.0
+CUST-0150,Yuki Wilson,55,Jaipur,296.13
+CUST-0017,Ethan Verma,62,Kolkata,3995.38
+CUST-0110,Rajesh Chen,51,Tokyo,1077.49
+CUST-0353,Yuki Nguyen,24,Jaipur,250.74
+CUST-0140,Kiran Jones,48,Houston,951.35
+CUST-0238,Neha Nguyen,39,Sydney,380.05
+CUST-0261,Sanjay Reddy,44,Ahmedabad,166.1
+CUST-0420,Maria Kim,19,Bangalore,44.4
+CUST-0401,Sophie Zhang,70,Delhi,652.74
+CUST-0249,Isabella Martinez,18,Lucknow,104.69
+CUST-0387,Chen Davis,22,Lucknow,118.47
+CUST-0020,Oliver Davis,57,Lucknow,238.67
+CUST-0329,Mohammed Iyer,45,Kolkata,1036.98
+CUST-0297,Wei Shah,36,Unknown,739.6
+CUST-0270,Vikram Iyer,70,Phoenix,465.29
+CUST-0227,Maria Sharma,71,Lucknow,1460.18
+CUST-0415,Sara Yang,21,Jaipur,101.01
+CUST-0379,Divya Verma,37,Mumbai,154.95
+CUST-0126,Deepa Taylor,56,New York,3930.88
+CUST-0281,Yuki Rao,41,Sydney,1525.15
+CUST-0287,Kiran Shah,74,Unknown,1383.62
+CUST-0425,Meera Jones,46,Bangalore,113.73
+CUST-0276,Meera Sharma,31,New York,114.47
+CUST-0437,Emily Joshi,34,Delhi,3865.69
+CUST-0183,Vikram Mehta,56,London,152.85
+CUST-0448,Arjun Jones,63,Osaka,532.69
+CUST-0308,Arjun Zhang,68,London,58.16
+CUST-0372,Wei Menon,70,Unknown,4872.98
+CUST-0087,Noah Johnson,32,Ahmedabad,332.08
+CUST-0267,Olivia Taylor,28,Ahmedabad,309.54
+CUST-0037,Divya Joshi,30,Phoenix,438.13
+CUST-0196,Olivia Johnson,21,Ahmedabad,192.27
+CUST-0042,Chen Wilson,50,Chicago,462.77
+CUST-0271,Neha Pillai,55,Lucknow,459.06
+CUST-0051,Rahul Kumar,49,Jaipur,147.92
+CUST-0210,Kiran Zhang,26,Sydney,708.11
+CUST-0398,Ethan Mehta,66,Ahmedabad,668.16
+CUST-0417,Mohammed Brown,20,Manchester,1912.59
+CUST-0223,Sanjay Singh,31,Unknown,3307.12
+CUST-0063,Chen Mehta,48,Kolkata,720.41
+CUST-0188,Aditya Chen,52,Delhi,104.2
+CUST-0024,Li Rao,53,Unknown,272.98
+CUST-0001,Li Kumar,34,Manchester,5524.03
+CUST-0202,Rohan Park,65,London,434.94
+CUST-0369,Aditya Liu,54,Houston,80.88
+CUST-0427,Ethan Joshi,42,Unknown,810.03
+CUST-0099,Olivia Verma,63,Bangalore,184.03
+CUST-0350,Liam Verma,55,Pune,617.73
+CUST-0305,Neha Kim,62,Bangalore,416.07
+CUST-0257,Sophie Mehta,72,Kolkata,367.98
+CUST-0095,Carlos Gupta,40,Sydney,3967.54
+CUST-0096,Maria Thomas,42,Mumbai,6470.88
+CUST-0443,Kiran Pillai,72,Unknown,1019.99
+CUST-0306,Emily Patel,18,Mumbai,1202.9
+CUST-0049,Isabella Jones,61,Manchester,360.83
+CUST-0342,Olivia Kim,52,Chicago,2424.29
+CUST-0208,Oliver Williams,26,New York,97.27
+CUST-0280,Deepa Martinez,51,Unknown,453.41
+CUST-0228,Oliver Chen,51,Bangalore,1433.91
+CUST-0144,Olivia Reddy,28,Hyderabad,394.58
+CUST-0181,Sara Harris,63,Unknown,2078.3
+CUST-0357,Olivia Kim,39,Phoenix,165.86
+CUST-0132,Unknown,74,Chicago,482.22
+CUST-0385,Kavya Johnson,64,Lucknow,1011.9
+CUST-0263,Wei Taylor,20,Lucknow,3997.33
+CUST-0325,Arjun Williams,75,Hyderabad,2602.61
+CUST-0204,Noah Sharma,18,London,127.75
+CUST-0085,Sunita Menon,19,Chennai,292.43
+CUST-0122,Divya Kumar,58,Osaka,404.91
+CUST-0435,Amit Jackson,24,Lucknow,1862.19
+CUST-0092,Ananya Garcia,26,Sydney,1163.04
+CUST-0083,Sara Kumar,29,Ahmedabad,151.14
+CUST-0268,Neha Sharma,32,Hyderabad,412.93
+CUST-0359,Yuki Sharma,56,Unknown,550.48
+CUST-0292,Liam Johnson,22,Delhi,624.48
+CUST-0058,Divya Reddy,69,Ahmedabad,360.33
+CUST-0322,Oliver Park,29,Osaka,10558.64
+CUST-0258,Rajesh Lee,58,Sydney,346.74
+CUST-0377,Ethan Wang,28,Chicago,386.04
+CUST-0447,Rohan Kumar,63,Osaka,713.88
+CUST-0043,Vikram Jackson,75,Kolkata,189.0
+CUST-0106,Emily Johnson,58,Lucknow,1552.91
+CUST-0389,Noah Patel,54,Delhi,3420.14
+CUST-0405,Sunita White,46,Chennai,482.37
+CUST-0274,Sneha Johnson,50,Sydney,2429.75
+CUST-0445,Pooja Kim,21,Osaka,1019.0
+CUST-0039,Unknown,57,Ahmedabad,2911.28
+CUST-0390,Arjun Nair,52,Sydney,290.81
+CUST-0054,Carlos Garcia,40,Hyderabad,515.28
+CUST-0421,Li Taylor,41,Unknown,195.0
+CUST-0438,Sneha Patel,39,Houston,1850.22
+CUST-0129,Sophie Lee,23,Delhi,236.64
+CUST-0029,Unknown,55,Lucknow,531.33
+CUST-0152,Priya Park,26,Chicago,310.13
+CUST-0245,Rahul Joshi,70,Lucknow,211.21
+CUST-0033,Rahul Williams,65,Lucknow,1047.12
+CUST-0450,Sophie Nair,56,Unknown,117.23
+CUST-0289,Olivia Reddy,20,London,362.06
+CUST-0424,Arjun Verma,40,Jaipur,203.85
+CUST-0399,Unknown,64,Jaipur,2034.93
+CUST-0148,Ava Nguyen,58,Manchester,264.04
+CUST-0286,James Zhang,38,London,99.53
+CUST-0178,Aditya Sharma,20,Delhi,393.32
+CUST-0100,Unknown,39,Unknown,2357.46
+CUST-0449,Yuki Verma,56,Kolkata,252.35
+CUST-0432,Rohan Taylor,54,London,468.62
+CUST-0336,Emma White,62,Jaipur,134.14
+CUST-0198,Sneha Menon,63,London,253.64
+CUST-0244,Liam Patel,72,Osaka,632.25
+CUST-0266,Neha Liu,20,Mumbai,1498.6
+CUST-0073,Wei Iyer,63,Lucknow,94.04
+CUST-0334,Sara Harris,60,Lucknow,1479.8
+CUST-0338,Maria Liu,45,Lucknow,1529.24
+CUST-0175,Chen Taylor,61,Kolkata,2570.78
+CUST-0040,Rajesh Nguyen,68,Hyderabad,2815.39
+CUST-0194,Yuki Mehta,50,Chicago,1859.75
+CUST-0315,Meera Lee,73,Ahmedabad,1381.07
+CUST-0397,Wei Iyer,23,Hyderabad,1537.86
+CUST-0089,Liam Gupta,26,Kolkata,711.52
+CUST-0088,Rohan Sharma,53,Unknown,457.66
+CUST-0243,Olivia Thomas,72,London,10008.31
+CUST-0278,James Jackson,72,Houston,333.3
+CUST-0010,Neha Pillai,75,Osaka,1088.68
+CUST-0360,Kiran Mehta,44,Manchester,9977.3
+CUST-0324,Maria Liu,64,Ahmedabad,565.02
+CUST-0193,Unknown,23,Manchester,975.03
+CUST-0118,Priya Brown,43,Hyderabad,2128.72
+CUST-0048,Arjun Yang,59,Los Angeles,6911.42
+CUST-0173,Divya Menon,36,Chennai,591.02
